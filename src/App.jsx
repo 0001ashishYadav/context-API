@@ -1,5 +1,5 @@
 import LoginPage from "./components/Login";
-import ProfilePage from "./components/profile";
+import ProfilePage from "./components/Profile";
 import UserContextProvider from "./context/userContextProvider";
 
 function App() {
