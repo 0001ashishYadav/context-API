@@ -1,4 +1,4 @@
-import LoginPage from "./components/login";
+import LoginPage from "./components/Login";
 import ProfilePage from "./components/profile";
 import UserContextProvider from "./context/userContextProvider";
 
